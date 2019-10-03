@@ -6,6 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+numpy = "==1.16.*"
+matplotlib = "==3.*"
 jupyterlab = "*"
 
 [requires]
